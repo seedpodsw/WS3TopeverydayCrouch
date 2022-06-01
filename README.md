@@ -5,5 +5,6 @@ Crouch mod for the game Weed Shop 3
 2. Bepinex folder goes into the game root of Weed Shop 3
 3. Download https://github.com/seedpodsw/WS3TopeverydayCrouch/raw/master/TopeverydayCrouch.dll
 4. Put TopeverydayCrouch.dll inside the /BepInEx/plugins/ folder
+5. Launch Game
 
 Final location of the .dll should be like (Steam\steamapps\common\Weed Shop 3\BepInEx\plugins\TopeverydayCrouch.dll)
